@@ -1,0 +1,14 @@
+1) You have 10 numbers and by using them and arithmatical functions, you need to find the greatest number.
+2) But remember that your number only has to be greater than the number of others.
+3) First open the folder called numbers and than learn the content by using ls command.(for example digits6 means 6)
+4) In the numbers folder, there are 10 different numbers and you have to use 8 of them(not less or more than 8)
+5) In the functions folder, there are 4 files, you can not open them. Every file has a mathematical function(+,-,*,/)
+6) You have to write 2 numbers for each function(2 numbers for Turkey, 2 numbers for Ethiopia etc. for example echo "4 and 5" >> switzerland.txt)
+7) You can use each number only once.
+7) After moving your numbers(in total 8) to the files in functions folder, read the files to learn their function.
+8) Then create a new txt file in the chance_or_intelligence folder and calculate your result. 
+9) For example you select 3 and 4 and write them to Ukraine folder. So calculate 3 and 4 according to Ukraine's function and then sum all the results that you receive from functions files.
+10) Who reaches the greatest number earns a swiss chocolate :)
+
+
+
